@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Note_app/static/css/main.0dbfb716.css",
+    "main.js": "/Note_app/static/js/main.98f8ac27.js",
+    "static/js/453.171ddc7f.chunk.js": "/Note_app/static/js/453.171ddc7f.chunk.js",
+    "static/media/pexels-pixabay-326333.jpg": "/Note_app/static/media/pexels-pixabay-326333.ee7140d7526eababf903.jpg",
+    "index.html": "/Note_app/index.html",
+    "main.0dbfb716.css.map": "/Note_app/static/css/main.0dbfb716.css.map",
+    "main.98f8ac27.js.map": "/Note_app/static/js/main.98f8ac27.js.map",
+    "453.171ddc7f.chunk.js.map": "/Note_app/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbfb716.css",
+    "static/js/main.98f8ac27.js"
+  ]
+}
